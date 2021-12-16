@@ -33,3 +33,19 @@ However, lot 3 has a p-value lower than the significance level at .041 and a mea
 ![lot 3](https://github.com/msprech/MechaCar_Statistical_Analysis/blob/ac7e436c6c9fd71d0911db3049bc376f65fffb04/t.test%20lot3.png)
 
 ## Study Design: MechaCar vs Competition 
+
+Further study should be conducted on how the MechaCar performs in comparison to other popular vehicles in the market. 
+
+Key metrics will include:
+* Initial cost 
+* Fuel efficiency 
+* Safety rating 
+* Safety features 
+* Engine type 
+
+Data will be collected on these metrics both for the MechaCar and for comparable vehicles on the market. These will then be evaluated using a t-test to compare the means of each metric of each vehicle. 
+
+The hypothesis will be defined as: 
+* H<sub>0</sub>: The difference in group means between MechaCar and the competition vehicles is zero. 
+
+* H<sub>a</sub>: The difference in group means between MechaCar and the competition vehicles is different than zero. 
